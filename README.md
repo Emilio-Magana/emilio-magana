@@ -5,7 +5,7 @@
 
 <samp>- 👨‍💻 <strong>Currently Open to Work</strong> </samp>
 
-<samp>-  📍 Currently Living in Selvino, soon to be Berlin in July </samp>
+<samp>-  📍 Currently Living in Hanoi! </samp>
 
 <samp>-  📡 Flexible for on-site or remote opportunities </samp>
 
@@ -18,17 +18,3 @@
 <p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilio-magana&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
-<!--
-**Emilio-Magana/Emilio-Magana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
